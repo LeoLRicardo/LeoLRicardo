@@ -1,5 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo Ricardo! 👋
 
+De Curitiba, PR 🇧🇷 | Estudante de Ciência da Computação
+
+Atualmente, estou dedicando minha energia para dominar a lógica de programação e focando mais na linguagem **Python**.
+
+---
+
+### 🎯 Objetivos de Carreira & Estudo
+*  **Foco Atual:** Domínio profundo de Python (Lógica, Estrutura de Dados e POO).
+*  **Interesses:** Python, Inteligência Artificial.
+*  **Meta:** Evoluir tecnicamente para conquistar minha próxima oportunidade no mercado de trabalho.
+
+### 🛠️ Tecnologias & Ferramentas
+* **Controle de Versão:** Git & GitHub
+* **Próximo Objetivo (In Progress):** Python 🚀
+
+### 📁 Projetos de Destaque
+* **[CheckUpTeen](https://github.com/LeoLRicardo/CheckUpTeen):** Proposta de plataforma gamificada de saúde pública para a Prefeitura de Curitiba (MVP focado em engajamento e impacto social).
+* **[Projeto_SemaforoInteligente](https://github.com/LeoLRicardo/Projeto_SemaforoInteligente):** Simulador de controle de fluxo viário aplicando conceitos de lógica booleana e máquinas de estado em JavaScript.
+
+---
+
+### 🤝 Vamos nos conectar?
+* 💼 [Meu LinkedIn](https://linkedin.com/in/leonardo-ricardo-ti)
 <!--
 **LeoLRicardo/LeoLRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
