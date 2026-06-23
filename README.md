@@ -15,10 +15,6 @@ Atualmente, estou dedicando minha energia para dominar a lógica de programaçã
 * **Controle de Versão:** Git & GitHub
 * **Próximo Objetivo (In Progress):** Python 🚀
 
-### 📁 Projetos de Destaque
-* **[CheckUpTeen](https://github.com/LeoLRicardo/CheckUpTeen):** Proposta de plataforma gamificada de saúde pública para a Prefeitura de Curitiba (MVP focado em engajamento e impacto social).
-* **[Projeto_SemaforoInteligente](https://github.com/LeoLRicardo/Projeto_SemaforoInteligente):** Simulador de controle de fluxo viário aplicando conceitos de lógica booleana e máquinas de estado em JavaScript.
-
 ---
 
 ### 🤝 Vamos nos conectar?
