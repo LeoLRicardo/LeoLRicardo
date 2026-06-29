@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo Ricardo! 👋
+# Olá, eu sou o Leonardo Ricardo! 
 
 De Curitiba, PR 🇧🇷 | Estudante de Ciência da Computação
 
@@ -6,19 +6,19 @@ Atualmente, estou dedicando minha energia para dominar a lógica de programaçã
 
 ---
 
-### 🎯 Objetivos de Carreira & Estudo
+### Objetivos de Carreira & Estudo
 *  **Foco Atual:** Domínio profundo de Python (Lógica, Estrutura de Dados e POO).
 *  **Interesses:** Python, Inteligência Artificial.
 *  **Meta:** Evoluir tecnicamente para conquistar minha próxima oportunidade no mercado de trabalho.
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 * **Controle de Versão:** Git & GitHub
 * **Próximo Objetivo (In Progress):** Python 🚀
 
 ---
 
-### 🤝 Vamos nos conectar?
-* 💼 [Meu LinkedIn](https://linkedin.com/in/leonardo-ricardo-ti)
+### Vamos nos conectar?
+* [Meu LinkedIn](https://linkedin.com/in/leonardo-ricardo-ti)
 <!--
 **LeoLRicardo/LeoLRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
