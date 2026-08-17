@@ -13,7 +13,7 @@ Atualmente, estou dedicando minha energia para dominar a lógica de programaçã
 
 ### Tecnologias & Ferramentas
 * **Controle de Versão:** Git & GitHub
-* **Próximo Objetivo (In Progress):** Python 🚀
+* **Próximo Objetivo (In Progress):** WEB (HTML, CSS e Javascript/PHP)
 
 ---
 
