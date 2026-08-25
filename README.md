@@ -40,7 +40,7 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 - 📊 Direção de carreira: **Dados & Analytics**, com interesse forte em treinar modelos e extrair insights
 - 🌱 Aprendendo **HTML/CSS/JavaScript** — meu próximo grande objetivo técnico
 - 🤝 Membro do **Google Student Ambassadors 2026**
-- 📫 Contato: [LinkedIn]<a href="https://www.linkedin.com/in/leonardo-ricardo-ti/" target="_blank">https://www.linkedin.com/in/leonardo-ricardo-ti/</a>
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/leonardo-ricardo-ti/)
 
 ---
 
