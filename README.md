@@ -53,10 +53,6 @@ Produto de triagem de saúde para adolescentes, definido e desenvolvido por mim 
 **[estudos-python](LINK_DO_REPO)**
 Repositório de estudos e exercícios em lógica de programação, estruturas de dados e POO em Python.
 
-> 📌 *Dica: fixe esses dois repositórios no topo do seu perfil (Customize your pins).*
-
----
-
 ### 🛠️ Stack & Ferramentas
 
 <p align="left">
