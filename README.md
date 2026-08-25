@@ -26,7 +26,7 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 **[PáginaPessoalv1](https://github.com/LeoLRicardo/PaginaPessoal1)**
 Primeira aplicação de HTML/CSS
 
-**[estudos-python](https://github.com/LeoLRicardo/estudos-python)**
+**[Estudos-python](https://github.com/LeoLRicardo/estudos-python)**
 Repositório de estudos e exercícios em lógica de programação, estruturas de dados e POO em Python.
 
 ### 🛠️ Stack & Ferramentas
