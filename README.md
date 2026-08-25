@@ -1,34 +1,11 @@
-# Olá, eu sou o Leonardo Ricardo! 
-
-De Curitiba, PR 🇧🇷 | Estudante de Ciência da Computação
-
-Atualmente, estou dedicando minha energia para dominar a lógica de programação e focando mais na linguagem **Python**.
-
----
-
-### Objetivos de Carreira & Estudo
-*  **Foco Atual:** Domínio profundo de Python (Lógica, Estrutura de Dados e POO).
-*  **Interesses:** Python, Inteligência Artificial.
-*  **Meta:** Evoluir tecnicamente para conquistar minha próxima oportunidade no mercado de trabalho.
-
-### Tecnologias & Ferramentas
-* **Controle de Versão:** Git & GitHub
-* **Próximo Objetivo (In Progress):** WEB (HTML, CSS e Javascript/PHP)
-
----
-
-### Vamos nos conectar?
-* [Meu LinkedIn](https://linkedin.com/in/leonardo-ricardo-ti)
-
-
 <h1 align="center">Olá, eu sou o Leonardo Ricardo 👋</h1>
 
 <p align="center">
-Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dados & IA</b>, com base sólida em Python.
+Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dados & IA</b>.
 </p>
 
 <p align="center">
-📍 Curitiba, PR — Brasil 🇧🇷
+📍PR - Brasil 🇧🇷
 </p>
 
 ---
@@ -38,7 +15,7 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 - 🎓 Cursando **Ciência da Computação** no IFPR Pinhais
 - 💡 Interesses: **Python** (lógica, estruturas de dados, POO) e primeiros passos em **Machine Learning**
 - 📊 Direção de carreira: **Dados & Analytics**, com interesse forte em treinar modelos e extrair insights
-- 🌱 Aprendendo **HTML/CSS/JavaScript** — meu próximo grande objetivo técnico
+- 🌱 Aprendendo **HTML/CSS/JavaScript/PHP** Meu próximo objetivo que estou construindo.
 - 🤝 Membro do **Google Student Ambassadors 2026**
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/leonardo-ricardo-ti/)
 
@@ -46,11 +23,10 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 
 ### 🚀 Projetos em destaque
 
-**[CheckUpTeen](LINK_DO_REPO)**
-Produto de triagem de saúde para adolescentes, definido e desenvolvido por mim com apoio de IA.
-`Python` `IA aplicada` — [ver projeto ao vivo](LINK_SE_TIVER_DEPLOY)
+**[PáginaPessoalv1](https://github.com/LeoLRicardo/PaginaPessoal1)**
+Primeira aplicação de HTML/CSS
 
-**[estudos-python](LINK_DO_REPO)**
+**[estudos-python](https://github.com/LeoLRicardo/estudos-python)**
 Repositório de estudos e exercícios em lógica de programação, estruturas de dados e POO em Python.
 
 ### 🛠️ Stack & Ferramentas
@@ -59,7 +35,6 @@ Repositório de estudos e exercícios em lógica de programação, estruturas de
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
