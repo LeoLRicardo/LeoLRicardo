@@ -36,11 +36,11 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 ### 🔭 Sobre mim
 
 - 🎓 Cursando **Ciência da Computação** no IFPR Pinhais
-- 💡 Foco atual: **Python** (lógica, estruturas de dados, POO) e primeiros passos em **Machine Learning**
+- 💡 Interesses: **Python** (lógica, estruturas de dados, POO) e primeiros passos em **Machine Learning**
 - 📊 Direção de carreira: **Dados & Analytics**, com interesse forte em treinar modelos e extrair insights
-- 🌱 Aprendendo **SQL** — meu próximo grande objetivo técnico
+- 🌱 Aprendendo **HTML/CSS/JavaScript** — meu próximo grande objetivo técnico
 - 🤝 Membro do **Google Student Ambassadors 2026**
-- 📫 Contato: [LinkedIn](SEU_LINK_AQUI)
+- 📫 Contato: [LinkedIn]<a href="https://www.linkedin.com/in/leonardo-ricardo-ti/" target="_blank">
 
 ---
 
