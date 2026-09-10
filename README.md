@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Leonardo Ricardo 👋</h1>
+<h1 align="center">Olá, eu sou o Leonardo Ricardo </h1>
 
 <p align="center">
 Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dados & IA</b>.
@@ -23,8 +23,8 @@ Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dado
 
 ### 🚀 Projetos em destaque
 
-**[PáginaPessoalv1](https://github.com/LeoLRicardo/PaginaPessoal1)**
-Primeira aplicação de HTML/CSS
+**[Site de Notícias](https://github.com/LeoLRicardo/SiteDeNoticias)**
+última aplicação de HTML/CSS até então, onde construi um site de notícias fictícia
 
 **[Estudos-python](https://github.com/LeoLRicardo/estudos-python)**
 Repositório de estudos e exercícios em lógica de programação, estruturas de dados e POO em Python.
