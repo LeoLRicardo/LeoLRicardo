@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Leonardo Ricardo </h1>
 
 <p align="center">
-Estudante de Ciência da Computação (IFPR) construindo minha trilha em <b>Dados & IA</b>.
+Estudante de Ciência da Computação (IFPR) construindo minha carreira.
 </p>
 
 <p align="center">
