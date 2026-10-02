@@ -13,7 +13,7 @@ Estudante de Ciência da Computação (IFPR) construindo minha carreira.
 ### 🔭 Sobre mim
 
 - 🎓 Cursando **Ciência da Computação** no IFPR Pinhais
-- 💡 Interesses: **Python & ABAP** (lógica, estruturas de dados, POO e POE)**
+- 💡 Interesses: **Python & ABAP** (lógica, estruturas de dados, POO e POE)
 - 📊 Direção de carreira: **BTP | ABAP**
 - 🌱 Aprendendo **HTML/CSS/JavaScript**
 - 🤝 Membro do **Google Student Ambassadors 2026**
